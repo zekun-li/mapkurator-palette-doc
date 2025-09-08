@@ -6,7 +6,20 @@ The *mapKurator-system* requires that *cuda_11.3*, along with *cudnn* and *nvidi
 Note that *cuda_11.3* officially supports only *Ubuntu 20.04* and earlier at the time this document was created.
 
 ### Step 0: Log in to DockerHub
-You should have your personal access token ready. If not, please contact Kartta Foundation (kartta.foundation@gmail.com).
+-[You should have your personal access token ready. If not, please contact Kartta Foundation (kartta.foundation@gmail.com).]
+Update: We have exhausted our resources to distribute personal access tokens and maintain the public Docker package. However, we continue to support customized licensing for tailored Docker images for commercial users.
+
+If you have a commercial use case, please email us with the following information so we can provide you with a tailored charge plan:
+
+1. A brief explanation of your business and how you intend to use the Docker image
+
+2. The approximate number of map images you expect to process per year
+
+3. The expected duration of use (e.g., one year, multi-year)
+
+4. The primary language in which you plan to process the map images
+
+Please send the above details to Kartta Foundation (kartta.foundation@gmail.com) with the subject line Commercial Use Case for Docker Image.
 
 To log in using the Docker CLI:
 
