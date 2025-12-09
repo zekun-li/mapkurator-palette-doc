@@ -59,7 +59,7 @@ cd /home/mapkurator-system/
 
 Then you can run spotting on the test images.     
 
-(These commands differ only in `spotter_config` file and `spotter_expt_name`
+(The following commands differ only in `spotter_config` file and `spotter_expt_name`）
 
 To run the **English** model:
 ```
